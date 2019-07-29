@@ -21,11 +21,11 @@ exports.borderRadius = {
 
 // color
 exports.color = {
-	appDanger: '#d64242',
-	appInfo: '#56cdfc',
-	appPrimary: '#1385e5',
-	appSuccess: '#34c240',
-	appWarning: '#fa9f47',
+	appDanger: '#ED1C24',
+	appInfo: '#00BBFF',
+	appPrimary: '#222A68',
+	appSuccess: '#157A6E',
+	appWarning: '#FFA987',
 };
 
 // spacing
